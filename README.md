@@ -129,14 +129,14 @@ Demonstrates automatic termination of containers violating hard memory limits.
 CPU-bound workload output and timing measurement from the scheduler experiment.  
 ![CPU-bound scheduling experiment](screenshots/9.png.jpeg)  
 Shows execution timing for CPU-intensive workloads.  
-![CPU-bound scheduling experiment](screenshots/10.png)  
+![CPU-bound scheduling experiment](screenshots/10.png.jpeg)  
 Compares performance metrics across different scheduling priorities.
 
 ### 8. Clean teardown
 Process listings and defunct-check output showing no zombie processes after shutdown.  
-![No defunct processes](screenshots/11.png)  
+![No defunct processes](screenshots/11.png.jpeg)  
 Confirms clean process termination without zombie processes.  
-![Supervisor and containers process list](screenshots/12.png)  
+![Supervisor and containers process list](screenshots/12.png.jpeg)  
 Displays final process state after container shutdown.
 
 ## Engineering Analysis
