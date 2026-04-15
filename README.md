@@ -127,7 +127,7 @@ Demonstrates automatic termination of containers violating hard memory limits.
 
 ### 7. Scheduling experiment
 CPU-bound workload output and timing measurement from the scheduler experiment.  
-![CPU-bound scheduling experiment](screenshots/9.png)  
+![CPU-bound scheduling experiment](screenshots/9.png.jpeg)  
 Shows execution timing for CPU-intensive workloads.  
 ![CPU-bound scheduling experiment](screenshots/10.png)  
 Compares performance metrics across different scheduling priorities.
