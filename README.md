@@ -93,7 +93,7 @@ sudo ./engine stop c1
 
 ### 1. Multi-container supervision
 Supervisor startup with multiple containers launched under one process.  
-![Supervisor startup](screenshots/1.png)  
+![Supervisor startup](screenshots/1.png.jpeg)  
 This screenshot shows the initial supervisor process starting up.  
 ![Running multiple containers](screenshots/2.png)  
 Demonstrates concurrent execution of multiple containers managed by the supervisor.
