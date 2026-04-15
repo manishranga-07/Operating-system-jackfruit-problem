@@ -171,3 +171,8 @@ The scheduling experiment tested CPU scheduling behavior by running CPU-bound wo
 
 OS-Jackfruit successfully implements a functional container runtime demonstrating key operating system principles including process isolation, IPC, memory management, and scheduling. The project provides hands-on experience with kernel module development, supervisor architectures, and resource enforcement mechanisms. Key learnings include the importance of bounded buffers for reliable logging, the power of namespaces for lightweight isolation, and the effectiveness of kernel-level monitoring for system resource control. The system capabilities encompass multi-container supervision, CLI-driven management, and experimental workload execution, serving as a solid foundation for understanding modern container technologies.
 
+## DONE BY
+1) NAME : CHINNALA MANISH RANGA
+   SRN : PES2U24CS135
+2) NAME: D SAI KARTHIK
+   SRN : PES2UG24CS141
