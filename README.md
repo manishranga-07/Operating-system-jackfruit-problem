@@ -122,7 +122,7 @@ Displays kernel module warnings when containers approach soft memory limits.
 
 ### 6. Hard-limit enforcement
 Kernel monitor `dmesg` output showing containers killed after exceeding hard limits.  
-![Hard limit kill events](screenshots/8.png)  
+![Hard limit kill events](screenshots/8.png.jpeg)  
 Demonstrates automatic termination of containers violating hard memory limits.
 
 ### 7. Scheduling experiment
