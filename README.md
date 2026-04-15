@@ -100,24 +100,24 @@ Demonstrates concurrent execution of multiple containers managed by the supervis
 
 ### 2. Metadata tracking
 `engine ps` output showing tracked container IDs, states, and memory policy status.  
-![Supervisor state output](screenshots/3.png)  
+![Supervisor state output](screenshots/3.png.jpeg)  
 Displays container metadata including IDs, current states, and applied memory limits.
 
 ### 3. Bounded-buffer logging
 Captured log file output from the supervisor log pipeline.  
-![Container logs](screenshots/4.png)  
+![Container logs](screenshots/4.png.jpeg)  
 Shows logs captured through the bounded buffer system for container output.
 
 ### 4. CLI and IPC
 A supervisor accepting a CLI request while running containers.  
-![CLI command and response](screenshots/5.png)  
+![CLI command and response](screenshots/5.png.jpeg)  
 Illustrates CLI command input and supervisor response via IPC.  
-![Supervisor accepting CLI command](screenshots/6.png)  
+![Supervisor accepting CLI command](screenshots/6.png.jpeg)  
 Shows the supervisor processing CLI commands during container execution.
 
 ### 5. Soft-limit warning
 Kernel monitor `dmesg` output reporting a soft memory threshold breach.  
-![Soft limit warning](screenshots/7.png)  
+![Soft limit warning](screenshots/7.png.jpeg)  
 Displays kernel module warnings when containers approach soft memory limits.
 
 ### 6. Hard-limit enforcement
